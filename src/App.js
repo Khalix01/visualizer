@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Wrok damn it<code>src/App.js</code> i want to kms.
+          Work damn it<code>src/App.js</code> i want to kms.
         </p>
         <a
           className="App-link"
